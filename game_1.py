@@ -29,7 +29,7 @@ def blue_rm_1():
 
     book case (hidden passage)
     health (25%)
-    shield
+    shield (50% damage decrease)
     '''
     pass
 
